@@ -1,13 +1,12 @@
-# Singular-Health
+# Singular Health
 Health Records Management Platform
 
-Singular Health
-
-Thesis: Patient health belongs to the patient. Doctors are service providers, not authorities. 
-
+## Thesis: 
+Patient health belongs to the patient. Doctors are service providers, not authorities. 
 
 
-Problem: 
+
+Problems: 
 * Health records management is difficult and expensive for providers. 
 
 * The referral process is inconvenient for providers and patients. 
