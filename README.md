@@ -20,7 +20,7 @@ Problem:
 
 * Schedules are hard to adhere to. Patients and doctors are frequently late.
 
-Synopsis: Let patients manage their own records and billing through the app. Patients can also inquire, share records, and share media (photos, videos, files) with new or existing providers.
+Synopsis: Let patients manage their own records and billing through the app. Patients can also inquire, share records, and share media (photos, videos, files) with new or existing providers. Physicians can communicate and schedule directly with patients through the app, bypassing medical office staff.
 
 
 
