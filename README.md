@@ -20,7 +20,7 @@ Problem:
 
 * Schedules are hard to adhere to. Patients and doctors are frequently late.
 
-Synopsis: Let patients manage their own records and billing through the app. Patients can self-refer, or, if necessary, easily obtain an online referral. inquire providers, share records, and share media (photos, videos, files).
+Synopsis: Let patients manage their own records and billing through the app. Patients can also inquire, share records, and share media (photos, videos, files) with new or existing providers.
 
 
 
@@ -36,7 +36,7 @@ Core features:
 For patients: 
  * Access medical records (including doctors' notes) 
  * Find and providers contact providers and send them data and records (imaging, etc)
- * Self refer or inquire a PCP for low-cost e-referrals
+ * Self refer or inquire a GP for low-cost e-referrals
  * Request, confirm, or cancel appointments
  * Send prescriptions to the pharmacy
  * Find and contact a diagnostic facility, MRI, bloodwork, etc.
