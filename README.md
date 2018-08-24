@@ -24,7 +24,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 ## Synopsis: 
 Let patients manage their own records and billing through the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing medical office staff.
 
-Expected impact:
+### Expected impact:
 Reduced cost of practice for physicians. Decreased cost of starting for medical practitioners leading to increased number of private practices and more innovative, emerging healthcare solutions to reach more people.
 
 Improved quality of care, better health, and better quality of life, worldwide. Worldwide healthcare marketplace significant impact, as providers can assist those in third world countries. Developing countries that provide competitive pricing have access to first world country marketplace and money.
