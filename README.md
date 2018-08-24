@@ -1,15 +1,17 @@
 # Singular Health
 Health Records Management Platform
 
+
 ## Thesis: 
-Patient health belongs to the patient. Doctors are service providers, not authorities. 
+Patient health belongs to the patient. Doctors are service providers, not authorities, not managers of patients. 
 
 
-
-Problems: 
+## Problems: 
 * Health records management is difficult and expensive for providers. 
 
 * The referral process is inconvenient for providers and patients. 
+
+* Medical records are transmitted insecurely. Providers and patients usually prefer the patient to send information via email, in violation of HIPAA. 
 
 * Maintaining copies of diagnostics, referrals, and prescriptions is inconvenient and lossy. 
 
@@ -19,11 +21,15 @@ Problems:
 
 * Schedules are hard to adhere to. Patients and doctors are frequently late.
 
-Synopsis: Let patients manage their own records and billing through the app. Patients can also inquire, share records, and share media (photos, videos, files) with new or existing providers. Physicians can communicate and schedule directly with patients through the app, bypassing medical office staff.
+## Synopsis: 
+Let patients manage their own records and billing through the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing medical office staff.
 
+Expected impact:
+Reduced cost of practice for physicians. Decreased cost of starting for medical practitioners leading to increased number of private practices and more innovative, emerging healthcare solutions to reach more people.
 
+Improved quality of care, better health, and better quality of life, worldwide. Worldwide healthcare marketplace significant impact, as providers can assist those in third world countries. Developing countries that provide competitive pricing have access to first world country marketplace and money.
 
-Core features:
+## Core features:
  * Medical records online, always accessible by patients
  * Payment system ensures that providers receive payment for no-shows
  * Dispute resolution for unprofessionalism, unpunctuality
@@ -32,7 +38,7 @@ Core features:
  * Calendar and Scheduling
  * Notifications for diagnostic results, appointments, messages
  
-For patients: 
+### For patients: 
  * Access medical records (including doctors' notes) 
  * Find and providers contact providers and send them data and records (imaging, etc)
  * Self refer or inquire a GP for low-cost e-referrals
@@ -42,7 +48,7 @@ For patients:
  * Review providers
 
 
-For providers: 
+### For providers: 
  * Advertise services descriptively, including procedures performed.
  * Define software rules for payment and cancellation policies
  * Publish results to the application (no more faxes, mailing records, etc)
