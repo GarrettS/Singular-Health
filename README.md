@@ -1,6 +1,8 @@
 # Singular Health
 Health Records Management Platform
 
+<sub>Copyright 2018 Garrett Smith</sub>
+
 
 ## Thesis: 
 Patient health belongs to the patient. Doctors are service providers, not authorities, not managers of patients. 
