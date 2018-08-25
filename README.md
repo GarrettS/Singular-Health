@@ -1,6 +1,6 @@
 # Singular Health
-Health Records Management Platform
-
+Decentralized Patient-Managed Healthcare and Marketplace
+ 
 <sub>Copyright 2018 Garrett Smith</sub>
 
 
@@ -15,7 +15,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 * Medical records are transmitted insecurely. Providers and patients usually prefer the patient to send information via email, in violation of HIPAA. 
 
-* Maintaining copies of diagnostics, referrals, and prescriptions is inconvenient and lossy. 
+* Maintaining copies of diagnostics, referrals, notes, prescriptions, and other records is inconvenient and lossy. 
 
 * Medical practice management and healthcare administration is expensive. This increases cost and reduces profit.
 
