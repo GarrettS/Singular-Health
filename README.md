@@ -29,7 +29,7 @@ Let patients manage their own records and billing through the app. Patients can 
 ### Expected impact:
 Reduced cost of practice for physicians. Decreased cost of starting for medical practitioners leading to increased number of private practices and more innovative, emerging healthcare solutions to reach more people.
 
-Improved quality of care, better health, and better quality of life, worldwide. Worldwide healthcare marketplace significant impact, as providers can assist those in third world countries. Developing countries that provide competitive pricing have access to first world country marketplace and money.
+Improved quality of care, better health, and better quality of life, worldwide. Worldwide healthcare marketplace expected to be significantly impacted as providers will be able to assist those in third world countries. Countries that can provide competitive pricing have access to first world country marketplace and money. 
 
 ## Core features:
  * Medical records online, always accessible by patients
