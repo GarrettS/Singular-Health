@@ -1,5 +1,5 @@
 # Singular Health
-Decentralized Patient-Managed Healthcare and Marketplace
+Decentralized Patient-Managed Health and Healthcare Marketplace
  
 <sub>Copyright 2018 Garrett Smith</sub>
 
