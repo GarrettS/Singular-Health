@@ -24,7 +24,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 * Schedules are hard to adhere to. Patients and doctors are frequently late.
 
 ## Synopsis: 
-Let patients manage their own records and billing through the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing medical office staff.
+Let patients manage their own records with the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing unskilled medical office staff. Eliminate billing with automatic contractual payments.
 
 ### Expected impact:
 Reduced cost of practice for physicians. Decreased cost of starting for medical practitioners leading to increased number of private practices and more innovative, emerging healthcare solutions to reach more people.
