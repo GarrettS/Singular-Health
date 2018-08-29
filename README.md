@@ -9,9 +9,11 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 
 ## Problems: 
+* Patients don't have ready access to their health records but they need it.
+
 * Health records management is difficult and expensive for providers. 
 
-* The referral process is inconvenient for providers and patients. 
+* Referrals are inconvenient for providers and patients. 
 
 * Medical records are transmitted insecurely. Providers and patients usually prefer the patient to send information via email, in violation of HIPAA. 
 
@@ -23,6 +25,10 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 * Schedules are hard to adhere to. Patients and doctors are frequently late.
 
+* Submitting insurance claims is annoying.
+
+* Finding available providers matching a location and insurance coverage is hard.
+ 
 ## Synopsis: 
 Let patients manage their own records with the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing unskilled medical office staff. Eliminate billing with automatic contractual payments.
 
@@ -55,4 +61,4 @@ Improved quality of care, better health, and better quality of life, worldwide. 
  * Define software rules for payment and cancellation policies
  * Publish results to the application (no more faxes, mailing records, etc)
  * Request, confirm, or cancel appointments
- * Find patients by searching
+ * Reach patients by broadcasting 
