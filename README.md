@@ -41,7 +41,7 @@ Improved quality of care, better health, and better quality of life, worldwide. 
  * Medical records online, always accessible by patients
  * Payment system ensures that providers receive payment for no-shows
  * Dispute resolution for unprofessionalism, unpunctuality
- * Ratings and reviews for providers and patients
+ * Ratings and reviews for providers
  * Diagnostic results published
  * Calendar and Scheduling
  * Notifications for diagnostic results, appointments, messages
