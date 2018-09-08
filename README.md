@@ -11,15 +11,15 @@ Patient health belongs to the patient. Doctors are service providers, not author
 ## Problems: 
 * Patients don't have ready access to their health records but they need it.
 
-* Health records management is difficult and expensive for providers. 
-
-* Referrals are inconvenient for providers and patients. 
-
 * Medical records are transmitted insecurely. Providers and patients usually prefer the patient to send information via email, in violation of HIPAA. 
 
 * Maintaining copies of diagnostics, referrals, notes, prescriptions, and other records is inconvenient and lossy. 
 
-* Medical practice management and healthcare administration is expensive. This increases cost and reduces profit.
+* Referrals are inconvenient for providers and patients. 
+
+* Medical practice management and healthcare administration is difficult, expensive, and lousy[1]. This increases cost and reduces profit.
+
+* Health records management is difficult and expensive for providers. 
 
 * Changes in insurance coverage, provider networks, or providers make all of the above harder, unnecessarily.
 
@@ -62,3 +62,6 @@ Improved quality of care, better health, and better quality of life, worldwide. 
  * Publish results to the application (no more faxes, mailing records, etc)
  * Request, confirm, or cancel appointments
  * Reach patients by broadcasting 
+
+### References 
+[1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1
