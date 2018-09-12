@@ -64,5 +64,5 @@ Improved quality of care, better health, and better quality of life, worldwide. 
  * Reach patients by broadcasting 
 
 ### References 
-[1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1
+[1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1  
 [2] https://www.nybooks.com/articles/2007/05/31/whats-wrong-with-doctors/
