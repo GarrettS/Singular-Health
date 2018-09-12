@@ -17,7 +17,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 * Referrals are inconvenient for providers and patients. 
 
-* Medical practice management and healthcare administration is difficult, expensive, and lousy[1]. This increases cost and reduces profit.
+* Medical practice management and healthcare administration is difficult, expensive, and lousy[1][2]. This increases cost and reduces profit.
 
 * Health records management is difficult and expensive for providers. 
 
@@ -30,7 +30,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 * Finding available providers matching a location and insurance coverage is hard.
  
 ## Synopsis: 
-Let patients manage their own records with the app. Patients can also inquire and share records and share media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing unskilled medical office staff. Eliminate billing with automatic contractual payments.
+Let patients manage their own records with the app. Patients can search for providers based on provider's availability, distance, speciality area, and insurance coverage. Patients can inquire to request appointments during doctor's published available times. Patients can share records and media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing unskilled medical office staff. Eliminate billing with automatic contractual payments.
 
 ### Expected impact:
 Reduced cost of practice for physicians. Decreased cost of starting for medical practitioners leading to increased number of private practices and more innovative, emerging healthcare solutions to reach more people.
@@ -65,3 +65,4 @@ Improved quality of care, better health, and better quality of life, worldwide. 
 
 ### References 
 [1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1
+[2] https://www.nybooks.com/articles/2007/05/31/whats-wrong-with-doctors/
