@@ -23,7 +23,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 * Changes in insurance coverage, provider networks, or providers make all of the above harder, unnecessarily.
 
-* Schedules are hard to adhere to. Patients and doctors are frequently late.
+* Schedules are hard to maintain. Patients cancel or no-show and doctors are frequently late.
 
 * Submitting insurance claims is annoying.
 
