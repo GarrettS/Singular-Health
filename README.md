@@ -27,7 +27,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 
 * Submitting insurance claims is annoying.
 
-* Finding available providers matching a location and insurance coverage is hard.
+* Finding updated available providers matching location and insurance coverage is hard.
  
 ## Synopsis: 
 Let patients manage their own records with the app. Patients can search for providers based on provider's availability, distance, speciality area, and insurance coverage. Patients can inquire to request appointments during doctor's published available times. Patients can share records and media (photos, videos, files) with new or existing providers. Let physicians communicate and schedule directly with patients through the app, bypassing unskilled medical office staff. Eliminate billing with automatic contractual payments.
@@ -37,14 +37,17 @@ Reduced cost of practice for physicians. Decreased cost of starting for medical 
 
 Improved quality of care, better health, and better quality of life, worldwide. Worldwide healthcare marketplace expected to be significantly impacted as providers will be able to assist those in third world countries. Countries that can provide competitive pricing have access to first world country marketplace and money. 
 
+Existing competing applications include B10S and OneRecord. 
+
 ## Core features:
  * Medical records online, always accessible by patients
- * Payment system ensures that providers receive payment for no-shows
- * Dispute resolution for unprofessionalism, unpunctuality
  * Ratings and reviews for providers
  * Diagnostic results published
  * Calendar and Scheduling
+## 2.0 features:
+ * Dispute resolution for unprofessionalism, unpunctuality
  * Notifications for diagnostic results, appointments, messages
+ * Payment system ensures that providers receive payment for no-shows
  
 ### For patients: 
  * Access medical records (including doctors' notes) 
@@ -54,7 +57,6 @@ Improved quality of care, better health, and better quality of life, worldwide. 
  * Send prescriptions to the pharmacy
  * Find and contact a diagnostic facility, MRI, bloodwork, etc.
  * Review providers
-
 
 ### For providers: 
  * Advertise services descriptively, including procedures performed.
