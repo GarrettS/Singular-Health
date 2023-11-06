@@ -4,7 +4,7 @@ Health and Healthcare Marketplace for Patients and Providers
 <sub>Copyright 2018 Garrett Smith</sub>
 
 ## Summary: 
-Patient health belongs to the patient. Doctors are service providers, not authorities, not managers of patients. Doctors are professionals, not servants of managed health organizations.
+Patient health belongs to the patient. Doctors are professional expert service providers regarding the complex field of human health. They are not authorities over patients. Management organizations that limit their quality of service can be largely replaced, giving doctors more freedom and financial incentive to provdie the best care possible in a freer, more competetive marketplace.
 
 ## Patient problems: 
 * Patients don't have ready access to their health records but they need it.
