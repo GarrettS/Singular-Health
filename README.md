@@ -4,14 +4,12 @@ Health and Healthcare Marketplace for Patients and Providers
 <sub>Copyright 2018 Garrett Smith</sub>
 
 ## Summary: 
-Patient health belongs to the patient. Doctors are professional expert service providers regarding the complex field of human health. They are not authorities over patients. Management organizations that limit their quality of service can be largely replaced, giving doctors more freedom and financial incentive to provdie the best care possible in a freer, more competetive marketplace.
+Patient health belongs to the patient. Doctors are professional expert service providers of human health. They are not authorities over patients. Management organizations that limit their quality of service can be largely replaced, giving doctors more freedom and financial incentive to provdie the best care possible in a freer, more competetive marketplace.
 
 ## Patient problems: 
-* Patients don't have ready access to their health records but they need it.
+* Patients don't have ready access to their health records (diagnostics, referrals, notes, prescriptions, etc) across providers and provider networks is inconvenient and lossy.
 * Medical records are sometimes transmitted insecurely, via email or SMS, in violation of HIPAA. 
-* Maintaining copies of diagnostics, referrals, notes, prescriptions, and other records across providers and provider networks is inconvenient and lossy.
 * Referrals and continuity of care are inconvenient and lossy. 
-* Submitting insurance claims is annoying.
 * Finding updated available providers matching location and insurance coverage is hard.
 
 ## Provider problems: 
@@ -20,7 +18,8 @@ Patient health belongs to the patient. Doctors are professional expert service p
 * Medical practice management and healthcare administration is difficult, expensive, and insufficient[1][2]. 
 * Changes in insurance coverage, provider networks, or providers make all of the above harder, unnecessarily.
 * Schedules are hard to maintain. Patients cancel or no-show and doctors are frequently late.
- 
+* Insurance claims are cumbersome.
+
 ## Solution Synopsis: 
 Patients manage their own records with the app. Patients can search for providers by availability, distance, speciality, and insurance, and other criteria. Patients contact providers for scheduling. Patients share select records and media (photos, videos, files) with new or existing providers. Patients update PHI (diet, exercise, supplements) and biometric data (sleep and blood sugar trackers, etc).
 
@@ -38,7 +37,6 @@ Existing competing applications include B10S and OneRecord.
  * Ratings and reviews for providers
  * Diagnostic results published
  * Calendar and Scheduling
- * 
  
 ### For patients: 
  * Access medical records (including doctors' notes) 
