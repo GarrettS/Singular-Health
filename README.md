@@ -1,10 +1,10 @@
 # Singular Health
-Decentralized Patient-Managed Health and Healthcare Marketplace
+Health and Healthcare Marketplace for Patients and Providers
  
 <sub>Copyright 2018 Garrett Smith</sub>
 
 ## Summary: 
-Patient health belongs to the patient. Doctors are service providers, not authorities, not managers of patients. 
+Patient health belongs to the patient. Doctors are service providers, not authorities, not managers of patients. Doctors are professionals, not servants of managed health organizations.
 
 ## Patient problems: 
 * Patients don't have ready access to their health records but they need it.
