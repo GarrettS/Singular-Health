@@ -9,7 +9,7 @@ Patient health belongs to the patient. Doctors are service providers, not author
 ## Patient problems: 
 * Patients don't have ready access to their health records but they need it.
 * Medical records are sometimes transmitted insecurely, via email or SMS, in violation of HIPAA. 
-* Maintaining copies of diagnostics, referrals, notes, prescriptions, and other records is inconvenient and lossy.
+* Maintaining copies of diagnostics, referrals, notes, prescriptions, and other records across providers and provider networks is inconvenient and lossy.
 * Referrals and continuity of care are inconvenient and lossy. 
 * Submitting insurance claims is annoying.
 * Finding updated available providers matching location and insurance coverage is hard.
