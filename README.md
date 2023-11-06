@@ -60,6 +60,10 @@ Existing competing applications include B10S and OneRecord.
  * Payment system ensures that providers receive payment for no-shows
 
 
+## Monetization
+ * Subscriptions for providers and patients
+ * Secure in in-app advertisement
+
 ### References 
 [1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1  
 [2] https://www.nybooks.com/articles/2007/05/31/whats-wrong-with-doctors/
