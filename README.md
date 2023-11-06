@@ -49,10 +49,10 @@ Existing competing applications include B10S and OneRecord.
 
 ### For providers: 
  * Advertise services descriptively, including procedures performed.
- * Define software rules for payment and cancellation policies
+ * Define rules for payment and cancellation policies
  * Publish results to the application (no more faxes, mailing records, etc)
  * Request, confirm, or cancel appointments
- * Reach patients by broadcasting
+ * Messaging and bulk notifications (e.g. OOO, not spam).
 
 ### 2.0 features:
  * Dispute resolution for unprofessionalism, unpunctuality
@@ -63,6 +63,7 @@ Existing competing applications include B10S and OneRecord.
 ## Monetization
  * Subscriptions for providers and patients
  * Secure in in-app advertisement
+ * Payment processing fees (~3-5%) for providers (for payment and visits)
 
 ### References 
 [1] https://jamanetwork.com/journals/jama/article-abstract/2674671?resultClick=1  
